@@ -22,3 +22,5 @@ while 1:
      data = data + currentTime.encode('ascii')
      conn.send(data)  # echo
      conn.close()
+
+#수정1
