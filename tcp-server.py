@@ -23,4 +23,4 @@ while 1:
      conn.send(data)  # echo
      conn.close()
 
-#수정1
+#수정2
